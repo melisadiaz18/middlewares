@@ -1,0 +1,14 @@
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /login
+El usuario ingreso a la ruta: /admin?user=Tim
+El usuario ingreso a la ruta: /login
+El usuario ingreso a la ruta: /admin?user=Ada
+El usuario ingreso a la ruta: /admin
+El usuario ingreso a la ruta: /products
+El usuario ingreso a la ruta: /detail
+El usuario ingreso a la ruta: /register
+El usuario ingreso a la ruta: /login
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /admin
+El usuario ingreso a la ruta: /admin
+El usuario ingreso a la ruta: /admin
